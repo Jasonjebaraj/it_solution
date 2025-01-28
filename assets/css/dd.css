@@ -1,0 +1,28 @@
+/* bar */
+
+
+.navbar{
+    background-color: rgb(255, 255, 255) !important;
+    top: 0;
+    position: sticky !important;
+    z-index: 10 !important;
+    padding: 20px 100px;
+    }
+    .collapse{
+        padding-left: 200px;
+    }
+    .nav_button{
+        padding: 10px 30px;
+        color: WHITE;
+        background-color:#0C5ADB ;
+    }
+    .nav_button:hover{
+            background-color:#00247E;
+    }
+    .collapse1{
+        padding-left: 200px;
+    }
+    footer{
+        margin-top: 200%;
+    }
+
